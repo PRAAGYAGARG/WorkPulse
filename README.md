@@ -16,7 +16,7 @@
 
 ## 🎯 About
 
-**WorkPulse** is an intelligent team management platform designed for modern organizations. It combines traditional project management features with AI-powered capabilities to help teams work smarter. The platform supports multiple organizations (multi-tenant architecture) with complete data isolation, ensuring each company's information remains secure and separate.
+**WorkPulse** is an intelligent team management platform designed for modern organisations. It combines traditional project management features with AI-powered capabilities to help teams work smarter. The platform supports multiple organizations (multi-tenant architecture) with complete data isolation, ensuring each company's information remains secure and separate.
 
 ## ✨ Features
 
