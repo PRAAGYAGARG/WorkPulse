@@ -177,9 +177,9 @@ Contributions are welcome! Please follow these steps:
 
 ## 👨‍💻 Author
 
-**Sampurn Samadder**
+**Praagya Garg**
 
-- GitHub: [@Sampurn17](https://github.com/Sampurn17)
+- GitHub: [@Praagya](https://github.com/PRAAGYAGARG)
 
 
 **Note:** This project is under active development. Features and documentation may change.
